@@ -1,0 +1,10 @@
+flask
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+groq
+tf-keras
+transformers
+torch
+pypdf
